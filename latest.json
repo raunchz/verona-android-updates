@@ -1,0 +1,11 @@
+{
+  "packageName": "com.veronayatirim.portal",
+  "versionCode": 18,
+  "versionName": "1.0.18",
+  "apkUrl": "https://raw.githubusercontent.com/raunchz/verona-android-updates/main/releases/VeronaYatirim-1.0.18.apk",
+  "sha256": "9bc1ff40e3f64de589e751e11c5bedf1d8a81193c35c82c87dd908a508743775",
+  "sizeBytes": 4031255,
+  "releaseNotes": [
+    "GitHub tabanlı otomatik güncelleme bildirimi, indirme doğrulaması ve Android kurulum akışı eklendi."
+  ]
+}
